@@ -1,2 +1,2 @@
-# Credit_Card_Fruad_Detection
+# Credit_Card_Fraud_Detection
  Machine Leraning Project
