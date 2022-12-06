@@ -1,6 +1,6 @@
 # Credit_Card_Fraud_Detection  
  Machine Learning Project  
-Name: Satya Ishyanth,K  
+Team Members: Satya Ishyanth Kadali, Anil Kumar Boggavarapu, Pranav Garipelli.  
 CRN: 11813, Student id: 700735513,  Course: Machine Learning  
 Dataset Link: https://www.kaggle.com/datasets/kartik2112/fraud-detection  
 
